@@ -1,4 +1,4 @@
-# Luxury Web Design Course
+# Web Design HTML CSS JS only
 
 # Figma Communication Resource**
 https://www.figma.com/community/file/886138994287878976
